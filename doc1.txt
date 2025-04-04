@@ -1,3 +1,2 @@
-A1
-B1
+HELLO FROM DOC1
 
